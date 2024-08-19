@@ -10,6 +10,11 @@ This is a tool created to help obfuscate powwershell reverse shell scripts evade
   <img src="https://img.shields.io/badge/Python-v3.8+-blue" alt="Python">
 </p>
 
+
+## Screenshots
+
+![obfushell](https://github.com/user-attachments/assets/68614949-940d-4b92-8a4f-66ee8cfb8ae9)
+
 ## Installation
 
 To install this project:
@@ -28,7 +33,4 @@ Run the tool:
 ```bash
   python obfushell.py
 ```
-## Screenshots
-
-![obfushell](https://github.com/user-attachments/assets/68614949-940d-4b92-8a4f-66ee8cfb8ae9)
 
